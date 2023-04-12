@@ -12,7 +12,6 @@ The data for this project came in three different formats:
 2. Image Prediction File (tsv file)
 3. JSON File from Twitter API
   
-In addition, as per project specificacion, only original tweets/ratings that have images should be used in the analysis (no retweets nor replies).
 
 ## Libraries: 
 pandas, numpy, matplotlib, requests, tweepy, timeit, os, json
