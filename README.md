@@ -2,7 +2,7 @@
 
 The goal of this project was to Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations, and specifically to:
 
-<li>Perform data wrangling (gathering, assessing and cleaning) on provided thee sources of data.
+<li>Perform data wrangling (gathering, assessing and cleaning) on the datasets.
 <li>Store, analyze, and visualize the wrangled data.
 <li>Report on: data wrangling, data analyses and visualizations.
  
